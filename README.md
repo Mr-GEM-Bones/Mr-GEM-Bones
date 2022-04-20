@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mr-GEM-Bones
-- 👀 I’m interested in Videogames, Movies, Cooking and Coding!
+- 👀 I’m interested in Videogames, Movies, and Coding!
 - 🌱 I’m currently learning JavaScript, C# and Algorithms.
 
 <!---
